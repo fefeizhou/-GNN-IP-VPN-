@@ -1,0 +1,8 @@
+{
+    "n_nodes": 20,
+    "n_node_features": 8,
+    "n_edge_features": 1,
+    "n_labels": 9,
+    "pes_channels": 64,
+    "learning_rate": 0.001
+}
